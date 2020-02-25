@@ -3,6 +3,7 @@
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account. 
+["Visit_Dynamo_Denis_on_Github](https://github.com/dynamodenis/)
 
 ## Project setup instructions
 To start using this project use the following commands:
